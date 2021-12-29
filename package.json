@@ -11,10 +11,13 @@
   "dependencies": {
     "@megavasiliy007/sdc-api": "github:MegaVasiliy007/sdc-api",
     "discord.js": "^11.5.1",
+    "dotenv": "^10.0.0",
     "fs": "0.0.1-security",
     "json-server": "^0.15.1",
     "moment": "^2.24.0",
     "ms": "^2.1.2",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.15",
     "sdc-api": "^1.0.3",
     "strftime": "^0.10.0",
     "superagent": "^5.1.3"

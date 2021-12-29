@@ -16,5 +16,5 @@ message.channel.send(catE)
 }
 
 module.exports.help = {
-    name: "cats"
+    name: "cat"
 }
