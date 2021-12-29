@@ -1,0 +1,22 @@
+{
+  "name": "heim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@megavasiliy007/sdc-api": "github:MegaVasiliy007/sdc-api",
+    "discord.js": "^11.5.1",
+    "fs": "0.0.1-security",
+    "json-server": "^0.15.1",
+    "moment": "^2.24.0",
+    "ms": "^2.1.2",
+    "sdc-api": "^1.0.3",
+    "strftime": "^0.10.0",
+    "superagent": "^5.1.3"
+  }
+}
